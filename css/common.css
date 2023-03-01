@@ -33,3 +33,9 @@ button {
   align-items: center;
   gap: 20px;
 }
+
+.box-container {
+  display: flex;
+  align-items: center;
+  gap: 20px;
+}
